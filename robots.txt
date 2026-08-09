@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-nvwhnx.idncuan.xyz/sitemap.xml
